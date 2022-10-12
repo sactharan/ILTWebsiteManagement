@@ -1,0 +1,4 @@
+Test Case ID,Runmode,arguments
+Console,1,>output1
+Console,1,-l>output2
+Console,1,-c>output3

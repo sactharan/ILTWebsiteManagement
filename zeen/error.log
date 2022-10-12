@@ -1,0 +1,24 @@
+2022-09-19 20:08:48,516 WARN  Ignored test case	SignUpExpo. Steps file not found: ..\tests\SignUpExpo\SignUpExpo.csv 
+2022-09-19 20:08:48,692 WARN  Ignored test case	ExpoContainerExportExcel. Steps file not found: ..\tests\ExpoContainerExportExcel\ExpoContainerExportExcel.csv 
+2022-09-19 20:08:48,775 WARN  Ignored test case	FloorLoading. Steps file not found: ..\tests\FloorLoading\FloorLoading.csv 
+2022-09-19 20:08:48,776 WARN  Ignored test case	MultiSkuFloorLoading. Steps file not found: ..\tests\MultiSkuFloorLoading\MultiSkuFloorLoading.csv 
+2022-09-19 20:08:48,776 WARN  Ignored test case	PalletLoading. Steps file not found: ..\tests\PalletLoading\PalletLoading.csv 
+2022-09-19 20:08:48,776 WARN  Ignored test case	palletStackMultiItemLoad. Steps file not found: ..\tests\palletStackMultiItemLoad\palletStackMultiItemLoad.csv 
+2022-09-19 20:08:48,777 WARN  Ignored test case	nonStackpalletMultiItemLoad. Steps file not found: ..\tests\nonStackpalletMultiItemLoad\nonStackpalletMultiItemLoad.csv 
+2022-09-19 20:08:48,792 WARN  Ignored test case	ExpoSKUDeleteAll. Steps file not found: ..\tests\ExpoSKUDeleteAll\ExpoSKUDeleteAll.csv 
+2022-09-19 20:13:23,467 ERROR Unknown error has occured conduct the vendor:null 
+java.util.NoSuchElementException
+	at java.util.Scanner.throwFor(Unknown Source)
+	at java.util.Scanner.next(Unknown Source)
+	at zeen.a.a(Unknown Source)
+	at zeen.Zeen.a(Unknown Source)
+	at zeen.Zeen.call(Unknown Source)
+	at zeen.CommandLine.executeUserObject(Unknown Source)
+	at zeen.CommandLine.access$1200(Unknown Source)
+	at zeen.CommandLine$RunLast.executeUserObjectOfLastSubcommandWithSameParent(Unknown Source)
+	at zeen.CommandLine$RunLast.handle(Unknown Source)
+	at zeen.CommandLine$RunLast.handle(Unknown Source)
+	at zeen.CommandLine$AbstractParseResultHandler.execute(Unknown Source)
+	at zeen.CommandLine.execute(Unknown Source)
+	at zeen.Zeen.main(Unknown Source)
+2022-09-19 20:13:23,487 ERROR Unknown error has occured conduct the vendor:null 

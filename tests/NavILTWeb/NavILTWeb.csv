@@ -1,0 +1,2 @@
+Test Case,Description,Object,Action ,DataColumn,WaitAfter
+NavILTWeb,Navigate to ilt software website,,navigate,url,5000

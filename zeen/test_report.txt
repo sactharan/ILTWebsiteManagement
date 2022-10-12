@@ -1,0 +1,18 @@
+2022-09-19 20:08:48,514 Ignored	SignUpExpo				 Steps file not found: ..\tests\SignUpExpo\SignUpExpo.csv 
+2022-09-19 20:08:48,692 Ignored	ExpoContainerExportExcel				 Steps file not found: ..\tests\ExpoContainerExportExcel\ExpoContainerExportExcel.csv 
+2022-09-19 20:08:48,775 Ignored	FloorLoading				 Steps file not found: ..\tests\FloorLoading\FloorLoading.csv 
+2022-09-19 20:08:48,775 Ignored	MultiSkuFloorLoading				 Steps file not found: ..\tests\MultiSkuFloorLoading\MultiSkuFloorLoading.csv 
+2022-09-19 20:08:48,776 Ignored	PalletLoading				 Steps file not found: ..\tests\PalletLoading\PalletLoading.csv 
+2022-09-19 20:08:48,776 Ignored	palletStackMultiItemLoad				 Steps file not found: ..\tests\palletStackMultiItemLoad\palletStackMultiItemLoad.csv 
+2022-09-19 20:08:48,777 Ignored	nonStackpalletMultiItemLoad				 Steps file not found: ..\tests\nonStackpalletMultiItemLoad\nonStackpalletMultiItemLoad.csv 
+2022-09-19 20:08:48,792 Ignored	ExpoSKUDeleteAll				 Steps file not found: ..\tests\ExpoSKUDeleteAll\ExpoSKUDeleteAll.csv 
+2022-09-19 20:09:25,999 EX	EmailVerification		2	2	Navigating to  https://v-2-1.vercel.app/signin	 
+2022-09-19 20:09:28,512 EX	EmailVerification		3	2	Clicking  //*[@id="__next"]/div/div/div/div[1]/div/div[2]/div[2]/span[2]/a	 
+2022-09-19 20:09:29,356 EX	EmailVerification		4	2	Entering the text in mui-3	 
+2022-09-19 20:09:31,289 EX	EmailVerification		5	2	Entering the text in mui-4	 
+2022-09-19 20:09:32,215 EX	EmailVerification		6	2	Entering the text in mui-5	 
+2022-09-19 20:09:32,756 EX	EmailVerification		7	2	Clicking  //*[@id="__next"]/div/div/div/div[1]/div/div[2]/div[1]/form/div[4]/div/span[1]/input	 
+2022-09-19 20:09:33,511 EX	EmailVerification		8	2	Clicking  //*[@id="__next"]/div/div/div/div[1]/div/div[2]/div[1]/form/div[5]/button	 
+2022-09-19 20:09:37,878 EX	EmailVerification		9	2	Navigating to  https://mail.google.com/mail/u/1/#inbox/FMfcgzGqQckHNbchmrfqbCswpSLjcDfg	 
+2022-09-19 20:09:38,468 EX	EmailVerification		10	2	Entering the text in identifierId	 
+2022-09-19 20:10:01,202 ER	EmailVerification		11	2	Verifying the the text in //*/html/body/div[3]/div/div[2]/div/div[2]/div[2]/p[1]/text()	Expected condition failed: waiting for presence of element located by: By.xpath: //*/html/body/div[3]/div/div[2]/div/div[2]/div[2]/p[1]/text() (tried for 5 second(s) with 500 milliseconds interval) 

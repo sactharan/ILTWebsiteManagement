@@ -1,0 +1,4 @@
+"Test Case ID","Description","Page Name","Object","Action Keyword","Data Set","Wait after"
+"AppConfig","setup platform",,"http://127.0.0.1:4723/wd/hub","stpDevice","Android, Nexus_6_API_30, 10",
+"AppConfig","open application",,,"open","appParams",
+"AppConfig","reset database",,"jas.app:id/importDB","click",,

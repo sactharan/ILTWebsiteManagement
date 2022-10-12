@@ -1,0 +1,162 @@
+Test Case ID,Description,Object,Action,DataColumn,WaitAfter
+ILTHomePage,click view more button - our top services,"//*[@id=""__next""]/main/div[4]/div/div[1]/a",click ,,5000
+ILTHomePage,return back to home,"//*[@id=""__next""]/header/div[2]/div[1]/div/div/nav/ul/li[1]/a/span",click,,10000
+ILTHomePage,click pallet optimization - our top services,/html/body/div/main/div[4]/div/div[2]/div/div[2]/div/div/div[1]/div/a/img,click,,5000
+ILTHomePage,return back to home,"//*[@id=""__next""]/header/div[2]/div[1]/div/div/nav/ul/li[1]/a/span",click,,10000
+ILTHomePage,click container optimization -our top services,/html/body/div/main/div[4]/div/div[2]/div/div[2]/div/div/div[2]/div/a/img,click,,5000
+ILTHomePage,return back to home,"//*[@id=""__next""]/header/div[2]/div[1]/div/div/nav/ul/li[1]/a/span",click,,10000
+ILTHomePage,click automation - our top services,/html/body/div/main/div[4]/div/div[2]/div/div[2]/div/div/div[3]/div/a/img,click,,5000
+ILTHomePage,return back to home,"//*[@id=""__next""]/header/div[2]/div[1]/div/div/nav/ul/li[1]/a/span",click,,10000
+ILTHomePage,click test automation - our top services,/html/body/div/main/div[4]/div/div[2]/div/div[2]/div/div/div[4]/div/a/img,click,,5000
+ILTHomePage,return back to home,"//*[@id=""__next""]/header/div[2]/div[1]/div/div/nav/ul/li[1]/a/span",click,,10000
+ILTHomePage,click right slide button - our top services,/html/body/div/main/div[4]/div/div[2]/div/div[1]/div/div[2]/div[2],click,,3000
+ILTHomePage,click overpass road - our top services,/html/body/div/main/div[4]/div/div[2]/div/div[2]/div/div/div[5]/div/a/img,click,,5000
+ILTHomePage,return back to home,"//*[@id=""__next""]/header/div[2]/div[1]/div/div/nav/ul/li[1]/a/span",click,,10000
+ILTHomePage,click right slide button - our top services,/html/body/div/main/div[4]/div/div[2]/div/div[1]/div/div[2]/div[2],click,,3000
+ILTHomePage,click right slide button - our top services,/html/body/div/main/div[4]/div/div[2]/div/div[1]/div/div[2]/div[2],click,,3000
+ILTHomePage,clic parle palace - our top services,/html/body/div/main/div[4]/div/div[2]/div/div[2]/div/div/div[6]/div/a/img,click,,5000
+ILTHomePage,return back to home,"//*[@id=""__next""]/header/div[2]/div[1]/div/div/nav/ul/li[1]/a/span",click,,10000
+ILTHomePage,click right slide button - our top services,/html/body/div/main/div[4]/div/div[2]/div/div[1]/div/div[2]/div[2],click,,3000
+ILTHomePage,click right slide button - our top services,/html/body/div/main/div[4]/div/div[2]/div/div[1]/div/div[2]/div[2],click,,3000
+ILTHomePage,click right slide button - our top services,/html/body/div/main/div[4]/div/div[2]/div/div[1]/div/div[2]/div[2],click,,3000
+ILTHomePage,click pink garden - our top services,/html/body/div/main/div[4]/div/div[2]/div/div[2]/div/div/div[7]/div/a/img,click,,5000
+ILTHomePage,return back to home,"//*[@id=""__next""]/header/div[2]/div[1]/div/div/nav/ul/li[1]/a/span",click,,10000
+ILTHomePage,click right slide button - our top services,/html/body/div/main/div[4]/div/div[2]/div/div[1]/div/div[2]/div[2],click,,3000
+ILTHomePage,click right slide button - our top services,/html/body/div/main/div[4]/div/div[2]/div/div[1]/div/div[2]/div[2],click,,3000
+ILTHomePage,click right slide button - our top services,/html/body/div/main/div[4]/div/div[2]/div/div[1]/div/div[2]/div[2],click,,3000
+ILTHomePage,click right slide button - our top services,/html/body/div/main/div[4]/div/div[2]/div/div[1]/div/div[2]/div[2],click,,3000
+ILTHomePage,click railway tunnel - our top services,/html/body/div/main/div[4]/div/div[2]/div/div[2]/div/div/div[8]/div/a/img,click,,5000
+ILTHomePage,return back to home,"//*[@id=""__next""]/header/div[2]/div[1]/div/div/nav/ul/li[1]/a/span",click,,10000
+ILTHomePage,click right slide button - our top services,/html/body/div/main/div[4]/div/div[2]/div/div[1]/div/div[2]/div[2],click,,3000
+ILTHomePage,click right slide button - our top services,/html/body/div/main/div[4]/div/div[2]/div/div[1]/div/div[2]/div[2],click,,3000
+ILTHomePage,click right slide button - our top services,/html/body/div/main/div[4]/div/div[2]/div/div[1]/div/div[2]/div[2],click,,3000
+ILTHomePage,click right slide button - our top services,/html/body/div/main/div[4]/div/div[2]/div/div[1]/div/div[2]/div[2],click,,3000
+ILTHomePage,click right slide button - our top services,/html/body/div/main/div[4]/div/div[2]/div/div[1]/div/div[2]/div[2],click,,3000
+ILTHomePage,click road roller - our top services,/html/body/div/main/div[4]/div/div[2]/div/div[2]/div/div/div[9]/div/a/img,click,,5000
+ILTHomePage,return back to home,"//*[@id=""__next""]/header/div[2]/div[1]/div/div/nav/ul/li[1]/a/span",click,,10000
+ILTHomePage,click brand items,/html/body/div/main/div[5]/div/div/div/div[1]/a/img,click,,5000
+ILTHomePage,return back to home,"//*[@id=""__next""]/header/div[2]/div[1]/div/div/nav/ul/li[1]/a/span",click,,10000
+ILTHomePage,click brand items,/html/body/div/main/div[5]/div/div/div/div[2]/a/img,click,,5000
+ILTHomePage,return back to home,"//*[@id=""__next""]/header/div[2]/div[1]/div/div/nav/ul/li[1]/a/span",click,,10000
+ILTHomePage,click brand items,/html/body/div/main/div[5]/div/div/div/div[3]/a/img,click,,5000
+ILTHomePage,return back to home,"//*[@id=""__next""]/header/div[2]/div[1]/div/div/nav/ul/li[1]/a/span",click,,10000
+ILTHomePage,click brand items,/html/body/div/main/div[5]/div/div/div/div[4]/a/img,click,,5000
+ILTHomePage,return back to home,"//*[@id=""__next""]/header/div[2]/div[1]/div/div/nav/ul/li[1]/a/span",click,,10000
+ILTHomePage,click brand items,/html/body/div/main/div[5]/div/div/div/div[5]/a/img,click,,5000
+ILTHomePage,return back to home,"//*[@id=""__next""]/header/div[2]/div[1]/div/div/nav/ul/li[1]/a/span",click,,10000
+ILTHomePage,click brand items,/html/body/div/main/div[5]/div/div/div/div[6]/a/img,click,,5000
+ILTHomePage,return back to home,"//*[@id=""__next""]/header/div[2]/div[1]/div/div/nav/ul/li[1]/a/span",click,,10000
+ILTHomePage,click brand items,/html/body/div/main/div[5]/div/div/div/div[7]/a/img,click,,5000
+ILTHomePage,return back to home,"//*[@id=""__next""]/header/div[2]/div[1]/div/div/nav/ul/li[1]/a/span",click,,10000
+ILTHomePage,click brand items,/html/body/div/main/div[5]/div/div/div/div[8]/a/img,click,,5000
+ILTHomePage,return back to home,"//*[@id=""__next""]/header/div[2]/div[1]/div/div/nav/ul/li[1]/a/span",click,,10000
+ILTHomePage,click brand items,/html/body/div/main/div[5]/div/div/div/div[9]/a/img,click,,5000
+ILTHomePage,return back to home,"//*[@id=""__next""]/header/div[2]/div[1]/div/div/nav/ul/li[1]/a/span",click,,10000
+ILTHomePage,click brand items,/html/body/div/main/div[5]/div/div/div/div[10]/a/img,click,,5000
+ILTHomePage,return back to home,"//*[@id=""__next""]/header/div[2]/div[1]/div/div/nav/ul/li[1]/a/span",click,,10000
+ILTHomePage,"clic codeless test automation - Provide Optimization
+& QA Service",/html/body/div/main/div[6]/div/div[2]/div[2]/div/div/div/div[1]/div/div/h2/a,click,,5000
+ILTHomePage,return back to home,"//*[@id=""__next""]/header/div[2]/div[1]/div/div/nav/ul/li[1]/a/span",click,,10000
+ILTHomePage,click plus button  - Codeless Test Automation,/html/body/div/main/div[6]/div/div[2]/div[2]/div/div/div/div[1]/div/div/div/a,click,,6000
+ILTHomePage,"click export simulation - Provide Optimization
+& QA Service",/html/body/div/main/div[6]/div/div[2]/div[2]/div/div/div/div[2]/div/div/h2/a,click,,5000
+ILTHomePage,return back to home,"//*[@id=""__next""]/header/div[2]/div[1]/div/div/nav/ul/li[1]/a/span",click,,10000
+ILTHomePage,click plus button  -Export Simulation,/html/body/div/main/div[6]/div/div[2]/div[2]/div/div/div/div[2]/div/div/div/a,click,,6000
+ILTHomePage,"click floor loading - Provide Optimization
+& QA Service",/html/body/div/main/div[6]/div/div[2]/div[2]/div/div/div/div[3]/div/div/h2/a,click,,5000
+ILTHomePage,return back to home,"//*[@id=""__next""]/header/div[2]/div[1]/div/div/nav/ul/li[1]/a/span",click,,10000
+ILTHomePage,click plus button  - Floor Loading,/html/body/div/main/div[6]/div/div[2]/div[2]/div/div/div/div[3]/div/div/div/a,click,,6000
+ILTHomePage,"click right slide button -Optimization
+& QA Service",/html/body/div/main/div[6]/div/div[2]/div[1]/div[2],click,,3000
+ILTHomePage,"click pallet loading - Optimization
+& QA Service",/html/body/div/main/div[6]/div/div[2]/div[2]/div/div/div/div[5]/div/div/h2/a,click,,5000
+ILTHomePage,return back to home,"//*[@id=""__next""]/header/div[2]/div[1]/div/div/nav/ul/li[1]/a/span",click,,10000
+ILTHomePage,"click right slide button -Optimization
+& QA Service",/html/body/div/main/div[6]/div/div[2]/div[1]/div[2],click,,3000
+ILTHomePage,click plus button  - Pallet Loading,/html/body/div/main/div[6]/div/div[2]/div[2]/div/div/div/div[4]/div/div/div/a,click,,6000
+ILTHomePage,"click right slide button -Optimization
+& QA Service",/html/body/div/main/div[6]/div/div[2]/div[1]/div[2],click,,3000
+ILTHomePage,"click software quality assurance - Optimization
+& QA Service",/html/body/div/main/div[6]/div/div[2]/div[2]/div/div/div/div[5]/div/div/h2/a,click,,5000
+ILTHomePage,return back to home,"//*[@id=""__next""]/header/div[2]/div[1]/div/div/nav/ul/li[1]/a/span",click,,10000
+ILTHomePage,"click right slide button -Optimization
+& QA Service",/html/body/div/main/div[6]/div/div[2]/div[1]/div[2],click,,3000
+ILTHomePage,"click right slide button -Optimization
+& QA Service",/html/body/div/main/div[6]/div/div[2]/div[1]/div[2],click,,3000
+ILTHomePage,click plus button  - software quality assurance,/html/body/div/main/div[6]/div/div[2]/div[2]/div/div/div/div[5]/div/div/div/a,click,,6000
+ILTHomePage,"click right slide button -Optimization
+& QA Service",/html/body/div/main/div[6]/div/div[2]/div[1]/div[2],click,,3000
+ILTHomePage,"click space optimization - Optimization
+& QA Service",/html/body/div/main/div[6]/div/div[2]/div[2]/div/div/div/div[6]/div/div/h2/a,click,,5000
+ILTHomePage,return back to home,"//*[@id=""__next""]/header/div[2]/div[1]/div/div/nav/ul/li[1]/a/span",click,,10000
+ILTHomePage,"click right slide button -Optimization
+& QA Service",/html/body/div/main/div[6]/div/div[2]/div[1]/div[2],click,,3000
+ILTHomePage,"click right slide button -Optimization
+& QA Service",/html/body/div/main/div[6]/div/div[2]/div[1]/div[2],click,,3000
+ILTHomePage,"click right slide button -Optimization
+& QA Service",/html/body/div/main/div[6]/div/div[2]/div[1]/div[2],click,,3000
+ILTHomePage,click plus button  - space optimization,/html/body/div/main/div[6]/div/div[2]/div[2]/div/div/div/div[6]/div/div/div/a,click,,10000
+ILTHomePage,"click learn more button - Our Services and
+products",/html/body/div/main/div[7]/div/div/div[2]/div/div[1]/div/a,click ,,5000
+ILTHomePage,return back to home,"//*[@id=""__next""]/header/div[2]/div[1]/div/div/nav/ul/li[1]/a/span",click,,10000
+ILTHomePage,click the team member -1,/html/body/div/main/div[8]/div/div[2]/div/div/div/div[1]/div/div[1]/ul,click,,2000
+ILTHomePage,click the facebook icon,/html/body/div/main/div[8]/div/div[2]/div/div/div/div[1]/div/div[1]/ul/li[1]/ul/li[1]/a,click,,2000
+ILTHomePage,Navigate to ilt software website,,navigate,url,10000
+ILTHomePage,click the team member -1,/html/body/div/main/div[8]/div/div[2]/div/div/div/div[1]/div/div[1]/ul,click,,2000
+ILTHomePage,click the twitter icon,/html/body/div/main/div[8]/div/div[2]/div/div/div/div[1]/div/div[1]/ul/li[1]/ul/li[2]/a,click,,2000
+ILTHomePage,Navigate to ilt software website,,navigate,url1,10000
+ILTHomePage,click the team member -1,/html/body/div/main/div[8]/div/div[2]/div/div/div/div[1]/div/div[1]/ul,click,,2000
+ILTHomePage,click the instagram icon,/html/body/div/main/div[8]/div/div[2]/div/div/div/div[1]/div/div[1]/ul/li[1]/ul/li[3]/a,click,,2000
+ILTHomePage,Navigate to ilt software website,,navigate,url2,10000
+ILTHomePage,click plus button - team member 1,/html/body/div/main/div[8]/div/div[2]/div/div/div/div[1]/div/div[1]/ul/li[2]/a,click,,6000
+ILTHomePage,click the team member -2,/html/body/div/main/div[8]/div/div[2]/div/div/div/div[2]/div/div[1]/ul,click,,2000
+ILTHomePage,click the facebook icon,/html/body/div/main/div[8]/div/div[2]/div/div/div/div[2]/div/div[1]/ul/li[1]/ul/li[1]/a,click,,2000
+ILTHomePage,Navigate to ilt software website,,navigate,url3,10000
+ILTHomePage,click the team member -2,/html/body/div/main/div[8]/div/div[2]/div/div/div/div[2]/div/div[1]/ul,click,,6000
+ILTHomePage,click the twitter icon,/html/body/div/main/div[8]/div/div[2]/div/div/div/div[2]/div/div[1]/ul/li[1]/ul/li[2]/a,click,,2000
+ILTHomePage,Navigate to ilt software website,,navigate,url4,10000
+ILTHomePage,click the team member -2,/html/body/div/main/div[8]/div/div[2]/div/div/div/div[2]/div/div[1]/ul,click,,6000
+ILTHomePage,click the instagram icon,/html/body/div/main/div[8]/div/div[2]/div/div/div/div[2]/div/div[1]/ul/li[1]/ul/li[3]/a,click,,2000
+ILTHomePage,Navigate to ilt software website,,navigate,url5,10000
+ILTHomePage,click plus button - team member 2,/html/body/div/main/div[8]/div/div[2]/div/div/div/div[2]/div/div[1]/ul/li[2]/a,click,,6000
+ILTHomePage,click the team member -3,/html/body/div/main/div[8]/div/div[2]/div/div/div/div[3]/div/div[1]/ul,click,,2000
+ILTHomePage,click the facebook icon,/html/body/div/main/div[8]/div/div[2]/div/div/div/div[3]/div/div[1]/ul/li[1]/ul/li[1]/a,click,,2000
+ILTHomePage,Navigate to ilt software website,,navigate,url3,10000
+ILTHomePage,click the team member -3,/html/body/div/main/div[8]/div/div[2]/div/div/div/div[3]/div/div[1]/ul,click,,6000
+ILTHomePage,click the twitter icon,/html/body/div/main/div[8]/div/div[2]/div/div/div/div[3]/div/div[1]/ul/li[1]/ul/li[2]/a,click,,2000
+ILTHomePage,Navigate to ilt software website,,navigate,url4,10000
+ILTHomePage,click the team member -3,/html/body/div/main/div[8]/div/div[2]/div/div/div/div[3]/div/div[1]/ul,click,,6000
+ILTHomePage,click the instagram icon,/html/body/div/main/div[8]/div/div[2]/div/div/div/div[3]/div/div[1]/ul/li[1]/ul/li[3]/a,click,,2000
+ILTHomePage,Navigate to ilt software website,,navigate,url5,10000
+ILTHomePage,click plus button - team member 3,/html/body/div/main/div[8]/div/div[2]/div/div/div/div[3]/div/div[1]/ul/li[2]/a,click,,6000
+ILTHomePage,click the team member -4,/html/body/div/main/div[8]/div/div[2]/div/div/div/div[4]/div/div[1]/ul,click,,2000
+ILTHomePage,click the facebook icon,/html/body/div/main/div[8]/div/div[2]/div/div/div/div[4]/div/div[1]/ul/li[1]/ul/li[1]/a,click,,2000
+ILTHomePage,Navigate to ilt software website,,navigate,url3,10000
+ILTHomePage,click the team member -3,/html/body/div/main/div[8]/div/div[2]/div/div/div/div[4]/div/div[1]/ul,click,,6000
+ILTHomePage,click the twitter icon,/html/body/div/main/div[8]/div/div[2]/div/div/div/div[4]/div/div[1]/ul/li[1]/ul/li[2]/a,click,,2000
+ILTHomePage,Navigate to ilt software website,,navigate,url4,10000
+ILTHomePage,click the team member -3,/html/body/div/main/div[8]/div/div[2]/div/div/div/div[4]/div/div[1]/ul,click,,6000
+ILTHomePage,click the instagram icon,/html/body/div/main/div[8]/div/div[2]/div/div/div/div[4]/div/div[1]/ul/li[1]/ul/li[3]/a,click,,2000
+ILTHomePage,Navigate to ilt software website,,navigate,url5,10000
+ILTHomePage,click plus button - team member 3,/html/body/div/main/div[8]/div/div[2]/div/div/div/div[4]/div/div[1]/ul/li[2]/a,click,,6000
+ILTHomePage,click view more button - testimonial,/html/body/div/main/div[9]/div/div/div[1]/div/div/a,click,,5000
+ILTHomePage,return back to home,"//*[@id=""__next""]/header/div[2]/div[1]/div/div/nav/ul/li[1]/a/span",click,,15000
+ILTHomePage,click the blog post title 1 - our blog,/html/body/div/main/div[10]/div/div[2]/div/div/div/div/div[1]/div/div/h3/a,click,,5000
+ILTHomePage,return back to home,"//*[@id=""__next""]/header/div[2]/div[1]/div/div/nav/ul/li[1]/a/span",click,,15000
+ILTHomePage,click read more -  blog post 1,/html/body/div/main/div[10]/div/div[2]/div/div/div/div/div[1]/div/div/ul/li[1]/a,click,,5000
+ILTHomePage,return back to home,"//*[@id=""__next""]/header/div[2]/div[1]/div/div/nav/ul/li[1]/a/span",click,,15000
+ILTHomePage,click 35 comments - blog post 1,/html/body/div/main/div[10]/div/div[2]/div/div/div/div/div[1]/div/div/ul/li[2]/a,click,,5000
+ILTHomePage,return back to home,"//*[@id=""__next""]/header/div[2]/div[1]/div/div/nav/ul/li[1]/a/span",click,,15000
+ILTHomePage,click the blog post title 2 - our blog,/html/body/div/main/div[10]/div/div[2]/div/div/div/div/div[2]/div/div/h3/a,click,,5000
+ILTHomePage,return back to home,"//*[@id=""__next""]/header/div[2]/div[1]/div/div/nav/ul/li[1]/a/span",click,,15000
+ILTHomePage,click read more -  blog post 2,/html/body/div/main/div[10]/div/div[2]/div/div/div/div/div[2]/div/div/ul/li[1]/a,click,,5000
+ILTHomePage,return back to home,"//*[@id=""__next""]/header/div[2]/div[1]/div/div/nav/ul/li[1]/a/span",click,,15000
+ILTHomePage,click 35 comments - blog post 2,/html/body/div/main/div[10]/div/div[2]/div/div/div/div/div[2]/div/div/ul/li[2]/a,click,,5000
+ILTHomePage,return back to home,"//*[@id=""__next""]/header/div[2]/div[1]/div/div/nav/ul/li[1]/a/span",click,,15000
+ILTHomePage,click the blog post title 3 - our blog,/html/body/div/main/div[10]/div/div[2]/div/div/div/div/div[3]/div/div/h3/a,click,,5000
+ILTHomePage,return back to home,"//*[@id=""__next""]/header/div[2]/div[1]/div/div/nav/ul/li[1]/a/span",click,,15000
+ILTHomePage,click read more -  blog post 1,/html/body/div/main/div[10]/div/div[2]/div/div/div/div/div[3]/div/div/ul/li[1]/a,click,,5000
+ILTHomePage,return back to home,"//*[@id=""__next""]/header/div[2]/div[1]/div/div/nav/ul/li[1]/a/span",click,,15000
+ILTHomePage,click 35 comments - blog post 1,/html/body/div/main/div[10]/div/div[2]/div/div/div/div/div[3]/div/div/ul/li[2]/a,click,,5000
+ILTHomePage,return back to home,"//*[@id=""__next""]/header/div[2]/div[1]/div/div/nav/ul/li[1]/a/span",click,,15000
+ILTHomePage,click scroll to top button,/html/body/div/main/div[12]/button,click,,10000

@@ -1,0 +1,3 @@
+Test Case ID,Description,Object,Action,DataColumn,WaitAfter
+ILTSubscribe,enter the email - subscribe,//input[@type='email'],input,subEmail,2000
+ILTSubscribe,click subscribe now button,//button[@class='newsletter_btn__sgFwr newsletter_btn_secondary__Pxcug newsletter_btn_hover__white__l87aA'],click,,7000

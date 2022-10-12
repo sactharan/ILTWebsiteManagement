@@ -1,0 +1,7 @@
+Test Case ID,Description,Object,Action,DataColumn,WaitAfter
+ILTHomePageSlide,click learn more button - top slider section,"//*[@id=""__next""]/main/div[1]/div[4]/div[1]/div/div/div[3]/a[1]",click,,5000
+ILTHomePageSlide,return back to home,"//*[@id=""__next""]/header/div[2]/div[1]/div/div/nav/ul/li[1]/a/span",click,,3000
+ILTHomePageSlide,clickcontact us button - top slider section,"//*[@id=""__next""]/main/div[1]/div[4]/div[1]/div/div/div[3]/a[2]",click,,5000
+ILTHomePageSlide,return back to home,"//*[@id=""__next""]/header/div[2]/div[1]/div/div/nav/ul/li[1]/a/span",click,,3000
+ILTHomePageSlide,click right slide button - top slider section,/html/body/div/main/div[1]/div[2],click,,3000
+ILTHomePageSlide,click left slide button - top slider section,/html/body/div/main/div[1]/div[1],click,,10000
